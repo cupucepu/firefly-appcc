@@ -1,4 +1,11 @@
 {
   "name": "firefly-generator",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Adobe Firefly Image Generator with Feedify API",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {}
 }
