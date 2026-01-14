@@ -5,14 +5,3 @@
     }
   }
 }
-```
-- Commit changes
-
-### 5. **Upload .gitignore**
-- Klik **"Add file"** → **"Create new file"**
-- Nama file: `.gitignore`
-- Paste ini:
-```
-node_modules/
-.env
-.vercel
